@@ -1,0 +1,101 @@
+review_id,product_id,customer_id,rating,title,comment,is_verified_purchase,helpful_votes,created_at
+1,14,11,1,Very good,Arrived on time and in perfect condition.,true,48,2023-11-04
+2,15,32,4,Excellent product,Product is fine but delivery was slow.,true,1,2025-01-08
+3,11,5,5,Meets expectations,Excellent value for money.,false,27,2023-05-02
+4,18,18,2,Recommended,Good but expected a bit more.,true,44,2024-03-07
+5,5,4,4,Recommended,Product is fine but delivery was slow.,true,7,2024-06-23
+6,15,11,1,Satisfied,Very good quality for the price.,false,28,2023-05-09
+7,19,24,2,Not so good,Good but expected a bit more.,false,43,2025-05-09
+8,7,26,3,Not so good,Very good quality for the price.,true,22,2025-05-11
+9,4,19,4,Very good,Excellent value for money.,false,8,2024-01-01
+10,20,5,5,Good quality,Product is fine but delivery was slow.,true,2,2024-05-22
+11,6,16,2,Meets expectations,Excellent value for money.,true,6,2025-02-13
+12,19,15,5,Could be better,Good but expected a bit more.,true,5,2023-12-24
+13,19,27,1,Recommended,Good but expected a bit more.,true,43,2024-07-25
+14,4,6,4,Satisfied,Did not meet my expectations.,false,27,2024-07-30
+15,4,2,1,Excellent product,Arrived on time and in perfect condition.,false,9,2023-02-28
+16,1,3,1,Meets expectations,Did not meet my expectations.,true,43,2023-07-18
+17,19,2,3,Recommended,Does what it promises.,false,20,2023-04-19
+18,12,26,2,Very good,Good but expected a bit more.,true,1,2023-09-12
+19,8,18,1,Meets expectations,Very good quality for the price.,true,26,2024-07-23
+20,8,8,5,Very good,Product is fine but delivery was slow.,true,43,2023-02-22
+21,1,20,5,Meets expectations,Very good quality for the price.,false,19,2026-02-24
+22,10,1,5,Recommended,Product is fine but delivery was slow.,true,35,2024-12-07
+23,1,8,2,Meets expectations,Does what it promises.,false,7,2023-12-08
+24,11,31,5,Could be better,Product is fine but delivery was slow.,true,31,2023-04-02
+25,6,16,5,Not so good,Very good quality for the price.,true,25,2023-09-06
+26,12,17,4,Very good,Good but expected a bit more.,true,34,2024-12-15
+27,11,9,4,Not so good,Did not meet my expectations.,true,25,2024-06-20
+28,12,25,2,Very good,Excellent value for money.,true,29,2025-06-24
+29,20,32,5,Could be better,Excellent value for money.,true,18,2024-11-02
+30,17,26,3,Recommended,Good but expected a bit more.,true,1,2023-12-05
+31,8,28,2,Satisfied,Product is fine but delivery was slow.,false,31,2024-01-27
+32,17,13,1,Could be better,Does what it promises.,true,45,2025-03-22
+33,12,19,5,Not so good,Excellent value for money.,true,23,2024-10-30
+34,10,6,5,Recommended,"Exceeded my expectations, highly recommend.",false,34,2024-11-03
+35,12,3,3,Good quality,Does what it promises.,true,34,2023-11-18
+36,11,32,4,Excellent product,Arrived on time and in perfect condition.,false,44,2023-10-18
+37,5,11,1,Excellent product,Good but expected a bit more.,true,12,2024-08-01
+38,7,24,3,Excellent product,Very good quality for the price.,false,15,2025-09-04
+39,12,8,1,Meets expectations,Very good quality for the price.,true,13,2025-09-30
+40,1,4,2,Not so good,Does what it promises.,true,48,2023-03-05
+41,20,28,1,Excellent product,Very good quality for the price.,true,27,2024-06-24
+42,9,34,4,Not so good,Does what it promises.,true,18,2024-03-23
+43,4,33,5,Recommended,Product is fine but delivery was slow.,false,5,2025-04-07
+44,15,29,5,Excellent product,Excellent value for money.,true,30,2024-11-15
+45,10,23,1,Very good,"Exceeded my expectations, highly recommend.",false,7,2024-09-12
+46,6,20,5,Not so good,Product is fine but delivery was slow.,false,14,2024-08-17
+47,19,22,1,Recommended,Good but expected a bit more.,true,10,2024-05-04
+48,12,5,4,Could be better,Product is fine but delivery was slow.,false,12,2024-06-29
+49,3,16,5,Good quality,Did not meet my expectations.,true,30,2025-04-07
+50,1,6,3,Not so good,Product is fine but delivery was slow.,true,16,2023-05-26
+51,1,6,2,Very good,Good but expected a bit more.,true,34,2025-02-11
+52,9,19,4,Recommended,Did not meet my expectations.,true,4,2025-09-19
+53,5,8,5,Excellent product,Good but expected a bit more.,false,15,2025-09-22
+54,15,20,5,Satisfied,Good but expected a bit more.,true,22,2025-06-28
+55,6,15,5,Not so good,Good but expected a bit more.,true,45,2023-12-20
+56,1,28,2,Good quality,Excellent value for money.,true,45,2024-09-27
+57,20,32,4,Not so good,Very good quality for the price.,true,7,2023-11-12
+58,17,24,1,Could be better,Good but expected a bit more.,false,43,2024-02-11
+59,17,29,4,Could be better,Does what it promises.,true,47,2025-11-07
+60,20,14,4,Excellent product,Did not meet my expectations.,true,34,2024-05-26
+61,1,16,5,Not so good,Does what it promises.,true,42,2025-08-02
+62,9,19,4,Could be better,Did not meet my expectations.,true,14,2024-02-06
+63,13,21,5,Meets expectations,Arrived on time and in perfect condition.,false,25,2024-09-09
+64,3,4,1,Very good,Good but expected a bit more.,true,26,2023-08-28
+65,12,33,1,Could be better,Arrived on time and in perfect condition.,true,29,2025-11-28
+66,6,29,2,Could be better,Did not meet my expectations.,false,15,2024-07-13
+67,20,2,1,Excellent product,Excellent value for money.,true,14,2024-05-14
+68,1,18,2,Meets expectations,Arrived on time and in perfect condition.,true,26,2025-01-24
+69,4,12,5,Good quality,Product is fine but delivery was slow.,true,0,2025-08-25
+70,20,9,2,Not so good,Did not meet my expectations.,false,40,2023-01-16
+71,14,15,3,Meets expectations,Very good quality for the price.,false,12,2025-09-02
+72,16,28,5,Could be better,Product is fine but delivery was slow.,false,9,2023-08-07
+73,9,23,2,Recommended,Arrived on time and in perfect condition.,false,47,2026-02-25
+74,5,24,2,Satisfied,Arrived on time and in perfect condition.,true,27,2024-12-31
+75,20,9,5,Satisfied,Excellent value for money.,false,22,2023-02-21
+76,9,16,3,Meets expectations,Very good quality for the price.,true,16,2025-11-02
+77,9,4,1,Could be better,Very good quality for the price.,false,31,2023-07-02
+78,11,25,4,Excellent product,Product is fine but delivery was slow.,true,13,2025-08-30
+79,10,17,3,Good quality,Good but expected a bit more.,true,36,2025-06-01
+80,3,21,4,Recommended,Very good quality for the price.,true,17,2025-05-28
+81,3,29,4,Very good,Product is fine but delivery was slow.,true,29,2025-01-24
+82,16,33,5,Meets expectations,Excellent value for money.,false,5,2025-09-10
+83,18,3,3,Excellent product,Excellent value for money.,false,25,2023-01-25
+84,6,18,1,Meets expectations,Did not meet my expectations.,false,46,2026-02-12
+85,3,11,3,Satisfied,Does what it promises.,true,31,2023-03-04
+86,1,24,4,Could be better,Arrived on time and in perfect condition.,false,27,2024-12-11
+87,2,29,4,Satisfied,Excellent value for money.,true,38,2023-04-16
+88,18,22,4,Satisfied,Very good quality for the price.,false,4,2023-06-16
+89,13,12,1,Could be better,Very good quality for the price.,false,11,2025-04-14
+90,17,17,3,Good quality,Good but expected a bit more.,true,18,2023-02-17
+91,4,7,1,Recommended,Excellent value for money.,true,38,2023-03-01
+92,10,9,3,Good quality,Excellent value for money.,true,4,2025-10-06
+93,2,32,4,Recommended,Very good quality for the price.,true,18,2024-08-02
+94,14,31,2,Satisfied,Very good quality for the price.,true,46,2025-10-24
+95,6,13,4,Very good,Very good quality for the price.,true,13,2023-04-24
+96,5,1,2,Meets expectations,Did not meet my expectations.,true,7,2024-07-17
+97,16,26,5,Could be better,Did not meet my expectations.,true,40,2024-06-17
+98,10,2,5,Not so good,Does what it promises.,true,15,2024-04-19
+99,8,4,4,Excellent product,Arrived on time and in perfect condition.,true,16,2025-12-05
+100,1,19,1,Satisfied,Excellent value for money.,true,39,2024-12-12

@@ -1,0 +1,21 @@
+product_id,sku,product_name,description,category_id,brand_id,supplier_id,price,cost,weight_kg,is_active,created_at,updated_at
+1,SKU-000001,Basic Pack 1,Detailed description of product 1,8,4,2,48.43,25.67,36.2,true,2022-09-07,2026-02-17
+2,SKU-000002,Smart Gadget 2,Detailed description of product 2,5,15,3,303.99,133.76,47.9,true,2023-02-15,2025-08-07
+3,SKU-000003,Super Set 3,Detailed description of product 3,9,6,6,451.74,307.18,8.4,false,2023-08-22,2025-03-29
+4,SKU-000004,Basic Set 4,Detailed description of product 4,7,7,3,212.7,87.21,20.5,true,2022-02-04,2025-11-26
+5,SKU-000005,Premium Kit 5,Detailed description of product 5,2,10,1,112.47,46.11,15.1,true,2022-09-02,2024-05-24
+6,SKU-000006,Elite Gear 6,Detailed description of product 6,6,1,4,204.05,132.63,41.2,true,2023-07-20,2024-07-05
+7,SKU-000007,Ultra Item 7,Detailed description of product 7,3,3,1,218.26,135.32,24.3,true,2023-10-28,2025-09-22
+8,SKU-000008,Max Kit 8,Detailed description of product 8,10,11,1,440.71,237.98,20.4,true,2022-10-03,2026-02-03
+9,SKU-000009,Max Product 9,Detailed description of product 9,7,8,6,37.54,18.39,46.8,true,2023-11-13,2025-03-20
+10,SKU-000010,Mega Gadget 10,Detailed description of product 10,9,7,4,211.77,86.83,27.2,true,2022-06-06,2025-04-23
+11,SKU-000011,Max Set 11,Detailed description of product 11,7,5,3,484.39,193.76,22.9,true,2023-11-20,2025-11-13
+12,SKU-000012,Max Set 12,Detailed description of product 12,1,1,7,378.16,189.08,2.4,true,2022-05-19,2024-02-29
+13,SKU-000013,Super Item 13,Detailed description of product 13,8,10,1,430.15,283.9,43,true,2022-05-26,2025-05-27
+14,SKU-000014,Smart Tool 14,Detailed description of product 14,8,12,7,77.79,45.9,44.4,false,2022-01-13,2025-10-26
+15,SKU-000015,Ultra Tool 15,Detailed description of product 15,5,1,7,323.01,171.2,39.6,true,2022-07-18,2025-04-24
+16,SKU-000016,Basic Widget 16,Detailed description of product 16,4,3,2,440.26,303.78,13.6,true,2022-05-12,2025-10-01
+17,SKU-000017,Ultra Gear 17,Detailed description of product 17,7,7,1,8.95,4.48,1.1,true,2023-03-29,2024-11-08
+18,SKU-000018,Basic Set 18,Detailed description of product 18,2,1,7,396.15,253.54,40.3,true,2022-12-06,2025-09-19
+19,SKU-000019,Elite Kit 19,Detailed description of product 19,6,6,6,112.65,55.2,9.6,false,2023-07-08,2024-04-28
+20,SKU-000020,Premium Widget 20,Detailed description of product 20,10,12,5,286.15,140.21,45.8,true,2023-06-20,2024-02-01

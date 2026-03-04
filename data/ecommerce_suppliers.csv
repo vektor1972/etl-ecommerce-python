@@ -1,0 +1,9 @@
+supplier_id,supplier_name,contact_name,email,phone,address,rating,is_active
+1,North Distributor,Charles Wilson,contact@northdistributor.com,+1 669-956-3787,7155 Philadelphia,4.5,false
+2,South Importer,John Smith,contact@southimporter.com,+1 905-708-8593,3440 Philadelphia,3.9,true
+3,Central Wholesale,John Smith,contact@centralwholesale.com,+1 910-528-6582,2132 New York,3.3,true
+4,Express Logistics,Mary Johnson,contact@expresslogistics.com,+1 977-619-2230,6139 Los Angeles,4.4,true
+5,United Providers,John Smith,contact@unitedproviders.com,+1 664-424-1555,3399 Chicago,4.9,true
+6,Global Supply,Anna Brown,contact@globalsupply.com,+1 234-612-6189,5448 Phoenix,5,true
+7,FastImport,Mary Johnson,contact@fastimport.com,+1 331-876-9826,8838 Austin,3.6,true
+8,QualitySource,Mary Johnson,contact@qualitysource.com,+1 226-679-9852,136 Dallas,4,true
